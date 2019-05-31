@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://10.234.129.26:8080/jenkins/view/open-ios/job/open_ios_push/ws/output/OpenCourse-iOS-PUSH-release_beat_qa.ipa</string>
+<string>http://10.234.129.26:8080/jenkins/view/open-ios/job/open_ios_push/ws/output/OpenCourse-iOS-PUSH-qa_debug2_qa.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
