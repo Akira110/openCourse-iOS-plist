@@ -1,6 +1,4 @@
-
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist SYSTEM "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 <key>items</key>
@@ -12,7 +10,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://10.234.129.26:8080/jenkins/view/open-ios/job/open_ios/lastSuccessfulBuild/artifact/output/OpenCourse-iOS-140-feature_6_7_1-release_beat_qa.ipa </string>
+<string>http://10.234.129.26:8080/jenkins/view/open-ios/job/open_ios/lastSuccessfulBuild/artifact/output/OpenCourse-iOS-140-feature_6_7_1-release_beat_qa.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -20,7 +18,7 @@
 <key>needs-shine</key>
 <false/>
 <key>url</key>
-<string>https://raw.githubusercontent.com/Akira110/openCourse-iOS-plist/master/439112798.png</string>
+<string>https://raw.githubusercontent.com/Akira110/openCourse-iOS-plist/master/open.png</string>
 </dict>
 </array>
 <key>metadata</key>
@@ -34,7 +32,7 @@
 <key>subtitle</key>
 <string>ci</string>
 <key>title</key>
-<string>网易公开课</string>
+<string>网易新闻</string>
 </dict>
 </dict>
 </array>
